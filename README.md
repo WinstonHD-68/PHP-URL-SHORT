@@ -16,7 +16,7 @@ Edit in `classes/mysql.php` the variables `$username` and `$password` so it matc
 
 ## Authors
 
-- [WinstonHD-68](https://www.github.com/WinstonHD-68)
+- [WinstonHD-68](https://github.com/WinstonHD-68)
 
 
 ## License
